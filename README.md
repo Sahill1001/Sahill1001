@@ -23,10 +23,18 @@ Web Developer, May–October 2023
 - Developed ERP workflows and investigated API and synchronization failures.
 - Promoted from Web Developer to Software Development Engineer within six months.
 
+## Freelance client work
+
+**[Manisha Enterprises](https://www.manishaenterprise.in/)** — delivered a client website and admin dashboard using Java 21/Spring Boot and Next.js/TypeScript.
+
+- Built APIs with MongoDB persistence, JWT admin authentication and Cloudinary uploads.
+- Implemented product, gallery, video and customer enquiry workflows.
+- [Watch the project walkthrough](https://sahill1001.github.io/myPortfolio/walkthroughs/manisha-enterprises.html).
+
 ## Technical skills
 
 - **Primary:** Java, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate and REST APIs.
-- **Data:** SQL, PostgreSQL, TimescaleDB, MongoDB and Redis.
+- **Data:** SQL, MySQL, PostgreSQL, TimescaleDB, MongoDB and Redis.
 - **Testing and delivery:** JUnit, Mockito, Maven, Git, Docker, Azure and GitHub Actions.
 - **Additional:** TypeScript, JavaScript, Node.js, NestJS, React and Next.js.
 
